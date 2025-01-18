@@ -5,7 +5,7 @@ const app = express()
 app.get('/', (req, res) => {
     res.json({
         success: true,
-        message: "Hello from the node-app-testing server"
+        message: "Hello from the node-app-testing-mvr manual server"
     })
 })
 
